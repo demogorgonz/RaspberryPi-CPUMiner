@@ -5,9 +5,11 @@ CPUMiner for RaspberryPi Zero, Pi 3, Pi 2, B+, A+.
 Clone of: https://github.com/pooler/cpuminer
 
 # Instructions for PiZero:
-Download minerd to your PiZero & run: 
+Download minerd to your PiZero, make it executable & run: 
 
 **# wget https://github.com/demogorgonz/RaspberryPi-CPUMiner/raw/master/minerd**
+
+**# chmod +x minerd
 
 **# ./minerd -h**
 
