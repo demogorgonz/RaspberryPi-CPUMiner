@@ -9,7 +9,7 @@ Download minerd to your PiZero, make it executable & run:
 
 **# wget https://github.com/demogorgonz/RaspberryPi-CPUMiner/raw/master/minerd**
 
-**# chmod +x minerd
+**# chmod +x minerd**
 
 **# ./minerd -h**
 
