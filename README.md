@@ -21,4 +21,4 @@ There is auto build script which will install dependencies to your Raspberry and
 
 **Bitcoin: 1KWVA9qBfTHmzPMvDw4ociqnk71FoLm1mp**
 
-![btc](https://t00r.pw/cdn/btc.png)
+![btc](http://i.imgur.com/FeRpxAb.png)
