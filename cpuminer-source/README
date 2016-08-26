@@ -1,0 +1,13 @@
+Build instructions:
+	./build.sh	# this script will install dependencies and build the miner for you.
+
+
+Usage instructions:  Run "minerd --help" to see options.
+
+Connecting through a proxy:  Use the --proxy option.
+To use a SOCKS proxy, add a socks4:// or socks5:// prefix to the proxy host.
+Protocols socks4a and socks5h, allowing remote name resolving, are also
+available since libcurl 7.18.0.
+If no protocol is specified, the proxy is assumed to be a HTTP proxy.
+When the --proxy option is not used, the program honors the http_proxy
+and all_proxy environment variables.
