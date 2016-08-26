@@ -1,18 +1,24 @@
 # RaspberryPi-CPUMiner
-CPUMiner for RaspberryPi Zero
+CPUMiner for RaspberryPi Zero, Pi 3, Pi 2, B+, A+.
 
 
 Clone of: https://github.com/pooler/cpuminer
 
+# Instructions for PiZero:
+Download minerd to your PiZero & run: 
 
-There is auto build script which will install dependencies and build "minerd" - see "cpuminer-source" folder.
+**# wget https://github.com/demogorgonz/RaspberryPi-CPUMiner/raw/master/minerd**
 
-Instructions:
-Download minerd to your PiZero, execute # ./minerd -h 
+**# ./minerd -h**
 
 
-Donate:
+# Instructions for Pi 3, Pi 2, B+, A+ :
+There is auto build script which will install dependencies to your Raspberry and build "minerd" - see "cpuminer-source" folder.
 
-Bitcoin: 1KWVA9qBfTHmzPMvDw4ociqnk71FoLm1mp
 
-[[https://t00r.pw/cdn/btc.png|alt=btc]]
+
+# Donate:
+
+**Bitcoin: 1KWVA9qBfTHmzPMvDw4ociqnk71FoLm1mp**
+
+![btc](https://t00r.pw/cdn/btc.png)
