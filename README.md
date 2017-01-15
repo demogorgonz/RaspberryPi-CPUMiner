@@ -15,17 +15,18 @@ Download minerd to your PiZero, make it executable & run:
 
 # Or
 
-Download minerd.tar.bz2, extract & run:
+Download minerd.tar.bz2 archive, extract & run:
 
-**# wget https://github.com/demogorgonz/RaspberryPi-CPUMiner/raw/master/minerd.tar.bz2**
+**# wget https://github.com/demogorgonz/RaspberryPi-CPUMiner/releases/download/v.1.0/minerd.tar.bz2**
 
 **# tar xjf minerd.tar.bz2**
 
 **# ./minerd -h**
 
 
-# Instructions for Pi 3, Pi 2, B+, A+ :
-There is auto build script which will install dependencies to your Raspberry and build "minerd" - see "cpuminer-source" folder.
+# Build it yourself for Pi 3, Pi 2, B+, A+ :
+There is auto build script which will install dependencies to your Raspberry and build "minerd" - see "cpuminer-source" folder and locate build.sh file.
+**bash /cpuminer-source/build.sh**
 
 
 
