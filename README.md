@@ -2,7 +2,7 @@
 CPUMiner for RaspberryPi Zero, Pi 3, Pi 2, B+, A+.
 
 
-Clone of: https://github.com/pooler/cpuminer
+Clone of: [pooler](https://github.com/pooler/cpuminer)
 
 # Instructions for PiZero:
 Download minerd to your PiZero, make it executable & run: 
@@ -34,6 +34,9 @@ There is auto build script which will install dependencies to your Raspberry and
 _____________________________________________________
 
 # CPUMiner with new algorithms (EXPERIMENTAL)
+
+clone of [lucasjones](https://github.com/lucasjones/cpuminer-multi)
+
 Download page: [Releases v1.1](https://github.com/demogorgonz/RaspberryPi-CPUMiner/releases/tag/v.1.1)
 
 # Build it yourself for Pi 3, Pi 2, B+, A+ :
