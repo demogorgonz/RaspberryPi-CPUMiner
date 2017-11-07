@@ -29,7 +29,7 @@ There is auto build script which will install dependencies to your Raspberry and
 
 **cd cpuminer-source/**
 
-**bash build.sh**
+**sudo bash build.sh**
 
 _____________________________________________________
 
