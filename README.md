@@ -1,4 +1,4 @@
-# RaspberryPi-CPUMiner
+# RaspberryPi-CPUMiner + CPUMiner with new algorithms (check bellow)
 CPUMiner for RaspberryPi Zero, Pi 3, Pi 2, B+, A+.
 
 
@@ -31,7 +31,16 @@ There is auto build script which will install dependencies to your Raspberry and
 
 **bash build.sh**
 
+_____________________________________________________
 
+# CPUMiner with new algorithms (EXPERIMENTAL)
+Download page: [Releases v1.1](https://github.com/demogorgonz/RaspberryPi-CPUMiner/releases/tag/v.1.1)
+
+# Build it yourself for Pi 3, Pi 2, B+, A+ :
+
+**cd cpuminer-newalgorithms**
+
+**sudo bash build.sh**
 
 # Donate:
 
