@@ -26,7 +26,9 @@ Download minerd.tar.bz2 archive, extract & run:
 
 # Build it yourself for Pi 3, Pi 2, B+, A+ :
 There is auto build script which will install dependencies to your Raspberry and build "minerd" - see "cpuminer-source" folder and locate build.sh file.
+
 **cd cpuminer-source/**
+
 **bash build.sh**
 
 
